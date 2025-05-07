@@ -8,4 +8,5 @@ To run the entire analysis, please use the main_code.mlx file.
 All other scripts have been developed as functions, which can also be used individually if needed.
 
 All code in this repository was created by me and is intended for educational and research purposes only.
-© Charalampos Tsapakos, 2025. All rights reserved.
+
+©Charalampos Tsapakos, 2025. All rights reserved.
