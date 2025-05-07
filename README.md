@@ -4,6 +4,7 @@ The study includes a performance comparison of sentiment analysis algorithms bet
 Additionally, the performance of transformer models, such as BERT, is evaluated using standard performance metrics.
 The objective is to draw conclusions regarding the effectiveness of different algorithms in analyzing customer satisfaction.
 
+
 To run the entire analysis, please use the main_code.mlx file.
 All other scripts have been developed as functions, which can also be used individually if needed.
 
